@@ -1,0 +1,8 @@
+{
+  "name": "Smart Prosthetics",
+  "description": "Simple, smart prosthetics made for people who keep fighting. Seen on Shark Tank India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
